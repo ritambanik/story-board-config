@@ -13,4 +13,5 @@ project-server:
       enabled: false
     listOfServers: localhost:8082
     ServerListRefreshInterval: 15000
-    url: http://project-server
+
+WELCOME_MESSAGE: A warm welcome from the config server
