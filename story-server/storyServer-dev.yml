@@ -14,4 +14,4 @@ project-server:
     listOfServers: localhost:8082
     ServerListRefreshInterval: 15000
 
-WELCOME_MESSAGE: A warm welcome from the config server
+WELCOME_MESSAGE: Config server is working!!!
